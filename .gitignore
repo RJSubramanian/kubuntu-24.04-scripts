@@ -1,0 +1,22 @@
+# Temporary and backup files
+*.log
+*.bak
+*.tmp
+*.temp
+*~
+
+# System files
+.DS_Store
+desktop.ini
+Thumbs.db
+*.directory
+
+# Editor/IDE files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Testing/dev files
+*.pid
+test/
